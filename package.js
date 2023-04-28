@@ -8,7 +8,7 @@
     
     “main”: “bot.js”,
     
-    “author”: “Your Name”,
+    “author”: “Indigo”,
     
     “dependencies”: {}
     

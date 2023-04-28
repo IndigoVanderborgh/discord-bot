@@ -7,3 +7,4 @@ Simple discord bot to respond to !ping, or if you want to set up a different sty
 npm install discord.io winston –save.
 
 2. After importing files, type "node bot.js" in the command prompt. Return to your discord and check out your new bot.
+
